@@ -17,7 +17,7 @@ This repository holds list of open source software development resources that I 
 
    To some, it may sound obvious and good advice. To others, it is useless. I personally fall in the former category.
 
-2. Github's https://opensource.guide is an all-rounder resource.
+2. Github's [opensource.guide](https://opensource.guide) is an all-rounder resource.
 
 
 ## Starting and Maintaining a project
